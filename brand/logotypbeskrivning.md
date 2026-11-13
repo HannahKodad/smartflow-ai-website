@@ -14,6 +14,8 @@ Symbolen kan också läsas som bokstäverna A och i – samma bokstäver som i S
 
 Det handritade draget är en del av symbolen. Den ska inte ritas om till en exakt geometrisk form.
 
+**Undantag – liten ikon (2026-11-13):** för små profilbilder och ikoner, till exempel LinkedIn-sidans logotyp, används en geometrisk version av symbolen med tjockare linjer. Den inre linjen pekar mot punktens mitt. Filer: `brand/ikon/smartflow-ai-ikon-geometrisk.svg` och PNG 400/800 px. Den stora logotypen förblir handritad. Andra prövade varianter finns i `brand/ikon/varianter/`.
+
 ## 2. Versioner och filer
 
 Logotypen finns i tre former och tre versioner. Alla filer finns i paketet *smartflow-ai-logo.zip*.
@@ -83,7 +85,12 @@ Under de här storlekarna blir namnet oläsligt. Använd då bara symbolen.
 **Inte så här:**
 
 - Byt inte färger och gör inte symbolen röd – rött kan läsas som en varning.
-- Rita inte om linjerna och gör inte triangeln exakt geometrisk.
+- Rita inte om linjerna och gör inte triangeln exakt geometrisk (undantag: den färdiga lilla ikonen, se avsnitt 1).
 - Sträck inte, vrid inte och lägg inte till skugga eller ram.
 - Lägg inte färgversionen på mörk eller rörig bakgrund, till exempel ett foto.
 - Flytta inte punkten och ändra inte avståndet mellan symbol och namn.
+
+
+## 7. LinkedIn-banners
+
+Färdiga banners med motiv ur Hannahs målning finns i `brand/linkedin/`: profil 1584×396 och företagssida 1128×191, på tjeckiska (cs) och engelska (en).
